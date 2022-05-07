@@ -1,5 +1,7 @@
 # SocketProgramming2
 
+i use visual studio 2022
+
 run TCPclient with commandline
 TCPclient.exe 127.0.0.1 8888
 
